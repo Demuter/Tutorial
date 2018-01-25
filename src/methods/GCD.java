@@ -1,6 +1,6 @@
 package methods;
 
-public class Recursion {
+public class GCD {
 
     static int calculate(int a, int b) {
         if (a % b == 0)
