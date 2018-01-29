@@ -24,7 +24,7 @@ public class Fourth<T> {
     }
 
     public static void main(String[] args) {
-        
+
         Fourth<String> list = new Fourth<String>();
         list.addMeth("123");
         list.addMeth("234");
