@@ -7,7 +7,7 @@ public class Animal {
     public Animal() {
         this(13, 69);
     }
-    
+
     public Animal(int height) {
         this(12, height);
     }
