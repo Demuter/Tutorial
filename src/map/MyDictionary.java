@@ -24,7 +24,7 @@ class MyDictionary<TKey, TValue> {
     }
 
     public static void main(String[] args) {
-        
+
         MyDictionary<String, String> dict = new MyDictionary<>();
         dict.addMeth("123", "Hello");
         dict.addMeth("234", "World");
