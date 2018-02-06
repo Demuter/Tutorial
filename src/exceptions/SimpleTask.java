@@ -12,7 +12,7 @@ class MyExceptionB extends MyExceptionA {
     }
 }
 
-public class Main {
+public class SimpleTask {
     public static void main(String[] args) {
         try {
             //throw new Exception("Exception");
