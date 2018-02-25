@@ -36,7 +36,6 @@ public class MainTestProgram {
                         ThreadLocalRandom.current().nextInt(
                                 Integer.MIN_VALUE, Integer.MAX_VALUE),
                         new MyClass());
-
             }
             return true;
         }
